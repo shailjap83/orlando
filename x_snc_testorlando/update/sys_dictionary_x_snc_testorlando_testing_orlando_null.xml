@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-18 04:45:34</sys_created_on>
-        <sys_id>0e954d3adbab0010193e43ea13961936</sys_id>
+        <sys_id>b141d5fedbab0010193e43ea139619bb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_testorlando_testing_orlando</sys_name>
         <sys_package display_value="TestOrlando" source="x_snc_testorlando">7a05053adbab0010193e43ea139619dd</sys_package>
         <sys_policy/>
         <sys_scope display_value="TestOrlando">7a05053adbab0010193e43ea139619dd</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_testorlando_testing_orlando_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_snc_testorlando_testing_orlando_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-18 04:45:34</sys_updated_on>
+        <sys_updated_on>2020-03-18 05:36:37</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
