@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Testing Orlando" language="en" table="x_snc_testorlando_testing_orlando">
+    <sys_documentation element="" label="Testing Orlando New label" language="en" table="x_snc_testorlando_testing_orlando">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
